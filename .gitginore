@@ -1,0 +1,8 @@
+target/
+src/main/api/.repository/ 
+.settings/
+.project
+.classpath
+.mule/
+catalog/
+reports/
